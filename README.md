@@ -1,7 +1,7 @@
 # COVID_challenge
 
 
-# Code for creating the graphs used int he project
+# Code for creating the graphs used in the project
 The file covid_challenge1.py contains the code for generating the graphs, the code is commented to assist in redevloping the results
 
 # Citations
